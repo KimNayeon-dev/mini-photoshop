@@ -1,0 +1,18 @@
+// Library for <Mini-Photoshop>
+
+from tkinter import *
+from tkinter.messagebox import *
+from tkinter.filedialog import *
+from tkinter.simpledialog import *
+from tkinter.colorchooser import *
+from tkinter import filedialog
+from wand.image import *
+
+// Upgrade your pip
+
+Mac, Windows >> python -m pip install --upgrade pip
+Linux >>> pip install --upgrade pip
+
+// Install wand >> pip install wand
+
+// Install ImageMagick >> https://imagemagick.org/script/download.php
