@@ -15,4 +15,4 @@ Linux >>> pip install --upgrade pip
 
 // Install wand >> pip install wand
 
-// Install ImageMagick >> https://imagemagick.org/script/download.php
+// Install ImageMagick >> https://imagemagick.org/script/download.php 
